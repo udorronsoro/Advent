@@ -1,0 +1,35 @@
+@font-face{
+    font-family:summer;
+    src:url('../font/Summer.ttf');
+}
+
+body{
+    background-image: url('../images/summer-bg1.jpg');
+}
+
+#container{
+    width: 75%;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+    font-family: summer;
+    font-size: 3em;
+}
+
+table{
+    width:75%;
+    margin: auto;
+    margin-top: -2%;
+}
+
+td{
+    width: 13%;
+}
+
+img{
+    width:auto;
+    height: 150px;
+    border: 4px solid black;
+}
